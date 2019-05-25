@@ -1,0 +1,14 @@
+1. Required Plugins
++ BB: http://bit.ly/bbplugins
++ Themer: http://bit.ly/bthemer
++ Safe SVG: http://bit.ly/2WqjfrN
++ Caldera Forms: http://bit.ly/cfforms
+
+2. How to Install?
++ Install Required Plugins
++ Import Contact Form
++ Import BB Templates
++ Create your pages > Insert template
+
+3. Notes
+Images/Icons aren't include in download file
